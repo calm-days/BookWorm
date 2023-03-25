@@ -1,9 +1,4 @@
-//
-//  BookWormTests.swift
-//  BookWormTests
-//
-//  Created by Roman Liukevich on 11/29/22.
-//
+
 
 import XCTest
 @testable import BookWorm

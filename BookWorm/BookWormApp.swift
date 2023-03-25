@@ -1,9 +1,4 @@
-//
-//  BookWormApp.swift
-//  BookWorm
-//
-//  Created by Roman Liukevich on 11/29/22.
-//
+
 
 import SwiftUI
 

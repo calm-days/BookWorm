@@ -1,9 +1,4 @@
-//
-//  AddBookView.swift
-//  BookWorm
-//
-//  Created by Roman Liukevich on 12/29/22.
-//
+
 
 import SwiftUI
 

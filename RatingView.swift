@@ -1,9 +1,4 @@
-//
-//  RatingView.swift
-//  BookWorm
-//
-//  Created by Roman Liukevich on 1/3/23.
-//
+
 
 import SwiftUI
 

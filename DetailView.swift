@@ -1,9 +1,4 @@
-//
-//  DetailView.swift
-//  BookWorm
-//
-//  Created by Roman Liukevich on 1/11/23.
-//
+
 
 import SwiftUI
 import CoreData

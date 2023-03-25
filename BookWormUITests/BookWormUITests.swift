@@ -1,9 +1,4 @@
-//
-//  BookWormUITests.swift
-//  BookWormUITests
-//
-//  Created by Roman Liukevich on 11/29/22.
-//
+
 
 import XCTest
 
